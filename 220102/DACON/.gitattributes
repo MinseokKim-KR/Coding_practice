@@ -1,0 +1,2 @@
+Jobcare_data/*.csv filter=lfs diff=lfs merge=lfs -text
+profile_report.html filter=lfs diff=lfs merge=lfs -text
